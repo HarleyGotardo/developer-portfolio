@@ -17,7 +17,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/](http://localhost:3000/#contact).
+## View live preview [here](https://my-developer-portfolio-pied.vercel.app/).
 
 ---
 
